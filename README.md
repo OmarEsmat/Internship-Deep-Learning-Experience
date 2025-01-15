@@ -30,20 +30,22 @@ Welcome to my deep learning internship repository. This repo showcases various t
 
 ## Courses and Key Learnings 📚
 
-- **Course 1: Neural Networks and Deep Learning** 
+Each of the courses in the Deep Learning Specialization has been accompanied by my **personal notes** to help you understand the key concepts and lessons from each week. Feel free to explore the course materials and my notes for further insights!
+
+- **[Course 1: Neural Networks and Deep Learning](https://github.com/OmarEsmat/Internship-Deep-Learning-Experience/tree/master/Deep%20learning%20specialization%20courses/1-neural%20network%20and%20deep%20learning%20course)**
   - Focus on neural networks, binary classification, backpropagation, and deep L-layer networks.
-  
-- **Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization** 
+
+- **[Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization](https://github.com/OmarEsmat/Internship-Deep-Learning-Experience/tree/master/Deep%20learning%20specialization%20courses/2-improving%20Deep%20Neural%20Networks%20%20Hyperparameter%20Tuning%20%2C%20Regularization%20and%20Optimization)**
   - Topics include regularization, optimization techniques (Adam, RMSprop), early stopping, and learning rate decay.
 
-- **Course 3: Structuring Machine Learning Projects** 
+- **[Course 3: Structuring Machine Learning Projects](https://github.com/OmarEsmat/Internship-Deep-Learning-Experience/tree/master/Deep%20learning%20specialization%20courses/3-Structuring%20Machine%20Learning%20Projects)**
   - Key concepts: project goal setting, data mismatches, and transfer learning.
 
-- **Course 4: Convolutional Neural Networks (CNNs)** 
+- **[Course 4: Convolutional Neural Networks (CNNs)](https://github.com/OmarEsmat/Internship-Deep-Learning-Experience/tree/master/Deep%20learning%20specialization%20courses/4-Convolutional%20Neural%20Networks)**
   - Introduction to CNNs, advanced architectures (ResNet, Inception), and object localization techniques.
 
-- **Course 5: Sequence Models** 
+- **[Course 5: Sequence Models](https://github.com/OmarEsmat/Internship-Deep-Learning-Experience/tree/master/Deep%20learning%20specialization%20courses/5-Sequence%20Models)**
   - Focus on RNNs, GRU, LSTM, attention mechanisms, and transformers for sequence-based tasks.
 
 ## License 📄
-Created by Omar Esmat 
+created by Omar Esmat 
