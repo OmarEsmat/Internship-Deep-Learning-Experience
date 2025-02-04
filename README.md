@@ -8,9 +8,9 @@ Welcome to my deep learning internship repository. This repo showcases various t
    - **Goal:** Classifying Iris species using different machine learning models.
    - **Approach:** Implemented basic machine learning algorithms and evaluated their performance on the Iris dataset.
 
-2. **[Task Two: Meteor Trajectory Model Refinement 🌠](https://github.com/OmarEsmat/Internship-Deep-Learning-Experience/tree/master/tasks/2-fashion%20mnist)**
-   - **Goal:** Refining a meteor trajectory model by testing multiple optimization strategies.
-   - **Approach:** Used various optimizers (Adam, RMSprop) with regularization, dropout, batch normalization, and early stopping to improve the model’s performance.
+2. **[Task Two: Fashion MNIST Classification with Deep Learning 🌠](https://github.com/OmarEsmat/Internship-Deep-Learning-Experience/tree/master/tasks/2-fashion%20mnist)**
+   - **Goal:** Enhancing a deep learning model for Fashion MNIST classification by exploring optimization techniques..
+   - **Approach:**  Implemented various optimizers (Adam, RMSprop) along with regularization techniques, dropout, batch normalization, and early stopping to improve model accuracy and generalization.
 
 3. **[Task Three: Face Recognition with Transfer Learning 👤](https://github.com/OmarEsmat/Internship-Deep-Learning-Experience/tree/master/tasks/3-face%20recognition)**
    - **Goal:** Build a face recognition model using transfer learning (VGG16 and InceptionV3).
