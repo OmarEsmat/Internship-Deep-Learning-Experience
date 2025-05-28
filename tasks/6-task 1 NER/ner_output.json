@@ -1,0 +1,138 @@
+[
+    {
+        "Entity": "new york",
+        "Label": "GPE"
+    },
+    {
+        "Entity": "monday",
+        "Label": "DATE"
+    },
+    {
+        "Entity": "paris",
+        "Label": "GPE"
+    },
+    {
+        "Entity": "next month",
+        "Label": "DATE"
+    },
+    {
+        "Entity": "mark smith",
+        "Label": "PERSON"
+    },
+    {
+        "Entity": "healthorg",
+        "Label": "ORG"
+    },
+    {
+        "Entity": "apple",
+        "Label": "ORG"
+    },
+    {
+        "Entity": "2024",
+        "Label": "DATE"
+    },
+    {
+        "Entity": "messi",
+        "Label": "PERSON"
+    },
+    {
+        "Entity": "argentine",
+        "Label": "NORP"
+    },
+    {
+        "Entity": "20 million",
+        "Label": "CARDINAL"
+    },
+    {
+        "Entity": "miami",
+        "Label": "GPE"
+    },
+    {
+        "Entity": "july 15, 2023",
+        "Label": "DATE"
+    },
+    {
+        "Entity": "florida",
+        "Label": "GPE"
+    },
+    {
+        "Entity": "south america",
+        "Label": "LOC"
+    },
+    {
+        "Entity": "john harper",
+        "Label": "PERSON"
+    },
+    {
+        "Entity": "german",
+        "Label": "NORP"
+    },
+    {
+        "Entity": "angela weber",
+        "Label": "PERSON"
+    },
+    {
+        "Entity": "berlin",
+        "Label": "GPE"
+    },
+    {
+        "Entity": "last friday",
+        "Label": "DATE"
+    },
+    {
+        "Entity": "nato",
+        "Label": "ORG"
+    },
+    {
+        "Entity": "the united nations",
+        "Label": "ORG"
+    },
+    {
+        "Entity": "geneva",
+        "Label": "GPE"
+    },
+    {
+        "Entity": "switzerland",
+        "Label": "GPE"
+    },
+    {
+        "Entity": "december 2025",
+        "Label": "DATE"
+    },
+    {
+        "Entity": "1420",
+        "Label": "DATE"
+    },
+    {
+        "Entity": "congress",
+        "Label": "ORG"
+    },
+    {
+        "Entity": "marie curie",
+        "Label": "PERSON"
+    },
+    {
+        "Entity": "warsaw",
+        "Label": "GPE"
+    },
+    {
+        "Entity": "1867",
+        "Label": "DATE"
+    },
+    {
+        "Entity": "the nobel prize",
+        "Label": "WORK_OF_ART"
+    },
+    {
+        "Entity": "1911",
+        "Label": "DATE"
+    },
+    {
+        "Entity": "west egg",
+        "Label": "LOC"
+    },
+    {
+        "Entity": "new york",
+        "Label": "GPE"
+    }
+]

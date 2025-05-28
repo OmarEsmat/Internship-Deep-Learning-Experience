@@ -1,0 +1,35 @@
+Entity,Label
+new york,GPE
+monday,DATE
+paris,GPE
+next month,DATE
+mark smith,PERSON
+healthorg,ORG
+apple,ORG
+2024,DATE
+messi,PERSON
+argentine,NORP
+20 million,CARDINAL
+miami,GPE
+"july 15, 2023",DATE
+florida,GPE
+south america,LOC
+john harper,PERSON
+german,NORP
+angela weber,PERSON
+berlin,GPE
+last friday,DATE
+nato,ORG
+the united nations,ORG
+geneva,GPE
+switzerland,GPE
+december 2025,DATE
+1420,DATE
+congress,ORG
+marie curie,PERSON
+warsaw,GPE
+1867,DATE
+the nobel prize,WORK_OF_ART
+1911,DATE
+west egg,LOC
+new york,GPE

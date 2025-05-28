@@ -1,0 +1,1070 @@
+[
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "techcorp",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "a",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "leading",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "tech",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "company",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "based",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "new",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "york",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "announced",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "on",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "monday",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "that",
+        "POS_Tag": "SCONJ"
+    },
+    {
+        "Token": "ceo",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "jane",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "doe",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "plans",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "to",
+        "POS_Tag": "PART"
+    },
+    {
+        "Token": "introduce",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "a",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "new",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "aipowered",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "smartphone",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "device",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "named",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "nexus",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "x",
+        "POS_Tag": "SYM"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "will",
+        "POS_Tag": "AUX"
+    },
+    {
+        "Token": "debut",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "paris",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "next",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "month",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "meanwhile",
+        "POS_Tag": "ADV"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "critics",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "like",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "dr",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "mark",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "smith",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "argue",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "that",
+        "POS_Tag": "SCONJ"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "launch",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "could",
+        "POS_Tag": "AUX"
+    },
+    {
+        "Token": "impact",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "environmental",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "policies",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "company",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "also",
+        "POS_Tag": "ADV"
+    },
+    {
+        "Token": "partnered",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "with",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "healthorg",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "a",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "nonprofit",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "to",
+        "POS_Tag": "PART"
+    },
+    {
+        "Token": "promote",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "digital",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "wellness",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "apple",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "declined",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "to",
+        "POS_Tag": "PART"
+    },
+    {
+        "Token": "comment",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "on",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "news",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "event",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "will",
+        "POS_Tag": "AUX"
+    },
+    {
+        "Token": "coincide",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "with",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "global",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "tech",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "summit",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "2024",
+        "POS_Tag": "NUM"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "lionel",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "messi",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "argentine",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "footballer",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "signed",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "a",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "20",
+        "POS_Tag": "NUM"
+    },
+    {
+        "Token": "million",
+        "POS_Tag": "NUM"
+    },
+    {
+        "Token": "contract",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "with",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "miami",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "fc",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "on",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "july",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "15",
+        "POS_Tag": "NUM"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "2023",
+        "POS_Tag": "NUM"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "deal",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "was",
+        "POS_Tag": "AUX"
+    },
+    {
+        "Token": "announced",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "during",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "a",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "press",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "conference",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "at",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "hard",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "rock",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "stadium",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "florida",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "fans",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "from",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "across",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "south",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "america",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "flooded",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "social",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "media",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "to",
+        "POS_Tag": "PART"
+    },
+    {
+        "Token": "celebrate",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "move",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "president",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "john",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "harper",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "met",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "with",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "german",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "chancellor",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "angela",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "weber",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "berlin",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "last",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "friday",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "to",
+        "POS_Tag": "PART"
+    },
+    {
+        "Token": "discuss",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "nato",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "policies",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "united",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "nations",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "will",
+        "POS_Tag": "AUX"
+    },
+    {
+        "Token": "host",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "a",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "climate",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "summit",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "geneva",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "switzerland",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "december",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "2025",
+        "POS_Tag": "NUM"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "critics",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "warn",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "that",
+        "POS_Tag": "SCONJ"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "new",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "tax",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "law",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "hb",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "1420",
+        "POS_Tag": "NUM"
+    },
+    {
+        "Token": "might",
+        "POS_Tag": "AUX"
+    },
+    {
+        "Token": "face",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "delays",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "congress",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "marie",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "curie",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "born",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "warsaw",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "1867",
+        "POS_Tag": "NUM"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "discovered",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "radium",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "and",
+        "POS_Tag": "CCONJ"
+    },
+    {
+        "Token": "won",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "nobel",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "prize",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "chemistry",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "1911",
+        "POS_Tag": "NUM"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "great",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "gatsby",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "jay",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "gatsby",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "hosts",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "lavish",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "parties",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "west",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "egg",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "new",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": "york",
+        "POS_Tag": "PROPN"
+    },
+    {
+        "Token": ",",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "reflecting",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "excesses",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "of",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "the",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "jazz",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "age",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    },
+    {
+        "Token": "a",
+        "POS_Tag": "DET"
+    },
+    {
+        "Token": "recent",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "study",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "in",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "nature",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "journal",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "links",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "sleep",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "deprivation",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": "to",
+        "POS_Tag": "ADP"
+    },
+    {
+        "Token": "decreased",
+        "POS_Tag": "VERB"
+    },
+    {
+        "Token": "cognitive",
+        "POS_Tag": "ADJ"
+    },
+    {
+        "Token": "performance",
+        "POS_Tag": "NOUN"
+    },
+    {
+        "Token": ".",
+        "POS_Tag": "PUNCT"
+    },
+    {
+        "Token": "\n    ",
+        "POS_Tag": "SPACE"
+    }
+]
